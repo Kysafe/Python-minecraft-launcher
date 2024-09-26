@@ -6,4 +6,5 @@ pip install -r requirements.txt
 ```
 
 Ważne
+
 W kodzie znajdują się przykładowe adresy URL (example.com). Należy je zmienić na faktyczne adresy serwera, z którego chcesz pobierać pliki, np. w funkcjach pobierania modpacków i aktualizacji.
